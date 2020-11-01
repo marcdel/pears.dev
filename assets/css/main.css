@@ -2700,14 +2700,6 @@ input, select, textarea {
 				text-align: left;
 			}
 
-			.browser-mockup .chrome:after {
-				content: '\f077 \f078 \f00d';
-				letter-spacing: 0.65em;
-				right: 0.75em;
-				text-align: right;
-				text-indent: 0.75em;
-			}
-
 		.browser-mockup .url {
 			background-color: #fff;
 			color: #4b505c;
@@ -2721,7 +2713,7 @@ input, select, textarea {
 			position: absolute;
 			text-align: left;
 			top: 0.6125em;
-			width: calc(100% - 15em);
+			width: calc(100% - 10em);
 		}
 
 		.browser-mockup img {
